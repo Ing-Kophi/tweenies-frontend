@@ -18,7 +18,7 @@ function Contact() {
               GPS Code: GN-0602-8123
             </p>
             <a
-              href="https://www.google.com/maps/dir/?api=1&destination=P2VJ+266,Tema"
+              href="https://www.google.com/maps/dir/?api=1&destination=P2VJ%2B266,Tema"
               target="_blank"
               rel="noopener noreferrer"
               className="text-decoration-none fw-semibold"
