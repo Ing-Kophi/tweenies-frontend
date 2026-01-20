@@ -7,7 +7,7 @@ function Home() {
       <section className="py-5 bg-dark text-light text-center rounded">
         <div className="container">
           <h1 className="display-5 fw-bold mb-3">
-            Welcome to Tweenies Restaurant
+            Welcome to Twinnies Eatery and Events Center
           </h1>
           <p className="lead mb-4">
             Delicious local and continental dishes, freshly prepared
@@ -24,7 +24,7 @@ function Home() {
           <div className="col-md-6 mb-3">
             <h2 className="fw-bold">Good Food, Great Moments</h2>
             <p className="text-muted">
-              At Tweenies Restaurant, we believe food brings people together.
+              At Twinnies Eatery, we believe food brings people together.
               Our meals are prepared with care, using quality ingredients to
               give you a satisfying dining experience every time.
             </p>
@@ -43,7 +43,7 @@ function Home() {
       <section className="py-5 bg-light rounded"
       style={{background: "linear-gradient(135deg, #f6d365, #fda085)"}}>
         <div className="container">
-          <h3 className="text-center fw-bold mb-4">Why Choose Tweenies?</h3>
+          <h3 className="text-center fw-bold mb-4">Why Choose Twinnies?</h3>
           <div className="row text-center">
             <div className="col-md-4 mb-3">
               <h5 className="fw-bold">Fresh Ingredients</h5>

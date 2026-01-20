@@ -2,17 +2,17 @@ function About() {
   return (
     <>
       <section className="py-5">
-        <h2 className="fw-bold mb-4">About Tweenies Restaurant</h2>
+        <h2 className="fw-bold mb-4">About Twinnies Eatery and Events Center</h2>
 
         <p className="text-muted lead">
-          Tweenies Restaurant is dedicated to serving delicious meals made with
+          Twinnies Eatery is dedicated to serving delicious meals made with
           care, quality ingredients, and a passion for great taste.
         </p>
 
         <p className="text-muted">
           We believe food is more than just a meal — it is an experience that
           brings people together. Whether you are dining in with family,
-          meeting friends, or grabbing a quick meal, Tweenies is committed to
+          meeting friends, or grabbing a quick meal, Twinnies is committed to
           making every visit memorable.
         </p>
 

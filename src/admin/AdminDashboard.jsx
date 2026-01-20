@@ -5,7 +5,7 @@ function AdminDashboard() {
     <AdminLayout>
       <h2 className="fw-bold mb-3">Dashboard</h2>
       <p className="text-muted">
-        Welcome to the Tweenies Restaurant admin panel.
+        Welcome to the Twinnies Restaurant admin panel.
       </p>
     </AdminLayout>
   );

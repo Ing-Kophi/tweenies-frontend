@@ -3,7 +3,7 @@ function Footer() {
     <footer className="bg-dark text-light py-3 mt-auto">
       <div className="container text-center">
         <small className="fw-semibold">
-          TWEENIES EATERY – Home of sumptuous foods
+          TWINNIES EATERY AND EVENTS CENTER – Home of sumptuous meals...
         </small>
       </div>
     </footer>

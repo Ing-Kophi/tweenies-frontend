@@ -39,7 +39,7 @@ function Contact() {
 
             <h5 className="fw-bold mt-3">WhatsApp</h5>
             <a
-              href="https://wa.me/23324419523"
+              href="https://wa.me/+233592908053"
               target="_blank"
               rel="noreferrer"
               className="btn btn-success"
