@@ -5,7 +5,8 @@ function Contact() {
         <h2 className="fw-bold mb-4">Contact Us</h2>
 
         <p className="text-muted">
-          We’d love to hear from you! Reach out to us using the details below.
+          We’d love to hear from you! Reach out to us using the details below. <br />
+          We take orders for any event - weddings, funerals, engagements, parties...
         </p>
 
         <div className="row mt-4">
@@ -16,6 +17,15 @@ function Contact() {
               Community 25, Tema <br />
               GPS Code: GN-0602-8123
             </p>
+            <a
+              href="https://www.google.com/maps/search/?api=1&query=P2VJ+266,Tema"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-decoration-none fw-semibold"
+              style={{ color: "#ce6b1a" }}
+            >
+              📍 Click here for Google Maps Direction
+            </a>
 
             <h5 className="fw-bold mt-3">Opening Hours</h5>
             <p className="text-muted">
