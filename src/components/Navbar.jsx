@@ -5,7 +5,7 @@ function Navbar() {
     <nav className="navbar navbar-expand-lg navbar-dark" style={{backgroundColor: "#ce6b1a"}}>
       <div className="container">
         <Link className="navbar-brand fw-bold d-flex align-items-center gap-2" to="/">
-          <img src="/logo_twinnies.png" alt="Twinnies Logo" style={{height:"32px"}} />
+          <img src="/logo_twinnies.png" alt="Twinnies Logo" style={{height:"38px"}} />
           <span classname="d-none d-sm-inline">TWINNIES</span>
         </Link>
 

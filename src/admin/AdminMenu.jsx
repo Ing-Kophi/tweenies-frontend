@@ -173,7 +173,7 @@ function AdminMenu() {
         </div>
 
         <button
-          className="btn btn-dark mt-3"
+          className="btn mt-3 text-light" style={{backgroundColor:"#ce6b1a"}}
           disabled={loading}
         >
           {loading ? "Saving..." : editingId ? "Update Menu Item" : "Add Menu Item"}
