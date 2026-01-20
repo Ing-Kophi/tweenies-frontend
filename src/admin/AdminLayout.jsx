@@ -6,10 +6,10 @@ function AdminLayout({ children }) {
       
       {/* Sidebar */}
       <aside
-        className="bg-dark text-light p-3"
-        style={{ width: "240px" }}
+        className="text-light p-3"
+        style={{ width: "240px", backgroundColor: "#ce6b1a" }}
       >
-        <h4 className="fw-bold mb-4">Tweenies Admin</h4>
+        <h4 className="fw-bold mb-4">Twinnies Admin</h4>
 
         <ul className="nav flex-column gap-2">
           <li className="nav-item">
