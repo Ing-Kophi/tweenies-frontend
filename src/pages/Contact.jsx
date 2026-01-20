@@ -18,7 +18,7 @@ function Contact() {
               GPS Code: GN-0602-8123
             </p>
             <a
-              href="https://www.google.com/maps/search/?api=1&query=P2VJ+266,Tema"
+              href="https://www.google.com/maps/dir/?api=1&destination=P2VJ+266,Tema"
               target="_blank"
               rel="noopener noreferrer"
               className="text-decoration-none fw-semibold"
@@ -29,8 +29,8 @@ function Contact() {
 
             <h5 className="fw-bold mt-3">Opening Hours</h5>
             <p className="text-muted">
-              Monday – Saturday: 9:00 AM – 9:00 PM <br />
-              Sunday: 12:00 PM – 10:00 PM
+              Tuesday – Sunday: 10:00 AM – 9:00 PM <br />
+              Monday: Closed
             </p>
           </div>
 
