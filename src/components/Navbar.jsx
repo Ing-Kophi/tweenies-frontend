@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 function Navbar() {
   return (
-    <nav className="navbar navbar-expand-lg bg-dark" style={{backgroundColor: "#ce6b1a"}}>
+    <nav className="navbar navbar-expand-lg" style={{backgroundColor: "#ce6b1a"}}>
       <div className="container">
         <Link className="navbar-brand fw-bold" to="/">
           TWEENIES
