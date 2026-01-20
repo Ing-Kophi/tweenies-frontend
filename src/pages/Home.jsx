@@ -4,7 +4,7 @@ function Home() {
   return (
     <>
       {/* Hero Section */}
-      <section className="py-5 bg-dark text-light text-center rounded">
+      <section className="py-5 text-light text-center rounded" style={{backgroundColor:"#ce6b1a"}}>
         <div className="container">
           <h1 className="display-5 fw-bold mb-3">
             Welcome to Twinnies Eatery and Events Center
@@ -12,7 +12,7 @@ function Home() {
           <p className="lead mb-4">
             Delicious local and continental dishes, freshly prepared
           </p>
-          <Link to="/menu" className="btn btn-warning btn-lg">
+          <Link to="/menu" className="btn btn-light btn-lg fw-bold">
             View Our Menu
           </Link>
         </div>
@@ -22,7 +22,7 @@ function Home() {
       <section className="py-5">
         <div className="row align-items-center">
           <div className="col-md-6 mb-3">
-            <h2 className="fw-bold">Good Food, Great Moments</h2>
+            <h2 className="fw-bold" style={{backgroundColor:"#ce6b1a"}}>Good Food, Great Moments</h2>
             <p className="text-muted">
               At Twinnies Eatery, we believe food brings people together.
               Our meals are prepared with care, using quality ingredients to
@@ -41,7 +41,7 @@ function Home() {
 
       {/* Why Choose Us */}
       <section className="py-5 bg-light rounded"
-      style={{background: "linear-gradient(135deg, #f6d365, #fda085)"}}>
+      style={{background: "linear-gradient(135deg, #fff3e6, #f7c59f)"}}>
         <div className="container">
           <h3 className="text-center fw-bold mb-4">Why Choose Twinnies?</h3>
           <div className="row text-center">
@@ -73,7 +73,7 @@ function Home() {
         <p className="text-muted mb-4">
           Explore our menu and discover your next favorite meal.
         </p>
-        <Link to="/menu" className="btn btn-dark btn-lg">
+        <Link to="/menu" className="btn btn-lg text-light fw-fold" style={{backgroundColor:"#ce6b1a"}}>
           Explore Menu
         </Link>
       </section>
