@@ -23,7 +23,7 @@ function Home() {
         <div className="row align-items-center">
           <div className="col-md-6 mb-3">
             <h2 className="fw-bold" style={{backgroundColor:"#ce6b1a"}}>Good Food, Great Moments</h2>
-            <p className="text-muted">
+            <p className="text-muted fs-5">
               At Twinnies Eatery, we believe food brings people together.
               Our meals are prepared with care, using quality ingredients to
               give you a satisfying dining experience every time.
