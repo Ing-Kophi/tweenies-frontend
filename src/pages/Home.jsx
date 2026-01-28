@@ -34,7 +34,7 @@ function Home() {
               src="https://res.cloudinary.com/dwgkkc0ee/image/upload/v1769561836/home_page_cpqqjm.jpg"
               alt="Restaurant food"
               className="img-fluid rounded shadow-sm"
-              style={{ aspectRatio:'1220/818', width: '100%', objectFit: "cover"}}
+              style={{ height:'490px', width: '100%', objectFit: "contain"}}
             />
           </div>
         </div>
