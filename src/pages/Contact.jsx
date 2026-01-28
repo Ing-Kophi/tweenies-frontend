@@ -44,7 +44,7 @@ function Contact() {
 
             <h5 className="fw-bold mt-3">Email</h5>
             <p className="text-muted">
-              tweenies.eatery@gmail.com
+              twinnieseatery@gmail.com
             </p>
 
             <h5 className="fw-bold mt-3">WhatsApp</h5>

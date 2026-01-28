@@ -31,7 +31,7 @@ function About() {
         <div className="row g-3">
           <div className="col-md-4">
             <img
-              src="https://res.cloudinary.com/dwgkkc0ee/image/upload/v1768869685/1001064146_gjiipp.jpg"
+              src="https://res.cloudinary.com/dwgkkc0ee/image/upload/v1769558851/IMG-20260123-WA0005_av7v8g.jpg"
               alt="Twinnies_compound_1"
               className="img-fluid rounded shadow-sm"
             />
@@ -56,7 +56,7 @@ function About() {
       {/* Feature Image (1 wide image) */}
       <section className="py-5">
         <img
-          src="https://res.cloudinary.com/dwgkkc0ee/image/upload/v1768869734/1001070791_ot3hkv.jpg"
+          src="https://res.cloudinary.com/dwgkkc0ee/image/upload/v1769558858/IMG-20260123-WA0007_pgfkct.jpg"
           alt="Twinnies Building"
           className="img-fluid rounded shadow w-100"
           style={{ maxHeight: "420px", objectFit: "cover" }}
@@ -70,8 +70,8 @@ function About() {
           {/* Optional supporting image */}
           <div className="col-md-4 mb-4 mb-md-0">
             <img
-              src="https://res.cloudinary.com/dwgkkc0ee/image/upload/v1768899014/IMG-20260115-WA0005_mcv3e1.jpg"
-              alt="CEO"
+              src="https://res.cloudinary.com/dwgkkc0ee/image/upload/v1769558844/IMG-20260123-WA0002_peowah.jpg"
+              alt="staff"
               className="img-fluid rounded shadow-sm"
             />
           </div>
