@@ -31,9 +31,10 @@ function Home() {
           </div>
           <div className="col-md-6">
             <img
-              src="https://res.cloudinary.com/dwgkkc0ee/image/upload/v1769559467/IMG-20260121-WA0001_cb9aro.jpg"
+              src="https://res.cloudinary.com/dwgkkc0ee/image/upload/v1769561836/home_page_cpqqjm.jpg"
               alt="Restaurant food"
               className="img-fluid rounded shadow-sm"
+              style={{ height:'200px', width: '200px'}}
             />
           </div>
         </div>
