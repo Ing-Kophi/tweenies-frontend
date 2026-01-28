@@ -31,7 +31,7 @@ function About() {
         <div className="row g-3">
           <div className="col-md-4">
             <img
-              src="https://res.cloudinary.com/dwgkkc0ee/image/upload/v1769558851/IMG-20260123-WA0005_av7v8g.jpg"
+              src="https://res.cloudinary.com/dwgkkc0ee/image/upload/v1769564967/IMG-20260123-WA0005_av7v8g.jpg"
               alt="Twinnies_compound_1"
               className="img-fluid rounded shadow-sm"
             />
@@ -56,10 +56,10 @@ function About() {
       {/* Feature Image (1 wide image) */}
       <section className="py-5">
         <img
-          src="https://res.cloudinary.com/dwgkkc0ee/image/upload/v1768869734/1001070791_ot3hkv.jpg"
+          src="https://res.cloudinary.com/dwgkkc0ee/image/upload/v1769558858/IMG-20260123-WA0007_pgfkct.jpg"
           alt="Twinnies Building"
           className="img-fluid rounded shadow w-100"
-          style={{ maxHeight: "420px", objectFit: "cover" }}
+          style={{ maxHeight: "500px", objectFit: "cover" }}
         />
       </section>
 
