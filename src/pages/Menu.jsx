@@ -51,8 +51,8 @@ function Menu() {
                     style={{height:'250px', objectFit: 'cover', width: '100%'}}
                   />
                   <div className="card-body d-flex flex-column">
-                    <p className="card-title">{item.name}</p>
-                    <h5 className="card-text text-muted">
+                    <p className="card-title text-muted">{item.name}</p>
+                    <h5 className="card-text">
                       {item.description}
                     </h5>
                     <div className="mt-auto fw-bold">

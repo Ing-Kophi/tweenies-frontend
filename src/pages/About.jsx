@@ -34,6 +34,7 @@ function About() {
               src="https://res.cloudinary.com/dwgkkc0ee/image/upload/v1769564967/IMG-20260123-WA0005_av7v8g.jpg"
               alt="Twinnies_compound_1"
               className="img-fluid rounded shadow-sm"
+              style={{width: '100%', height:'200px'}}
             />
           </div>
           <div className="col-md-4">
