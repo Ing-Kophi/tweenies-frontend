@@ -59,7 +59,6 @@ function About() {
           src="https://res.cloudinary.com/dwgkkc0ee/image/upload/v1769558858/IMG-20260123-WA0007_pgfkct.jpg"
           alt="Twinnies Building"
           className="img-fluid rounded shadow w-100"
-          style={{ maxHeight: "500px", objectFit: "cover" }}
         />
       </section>
 
