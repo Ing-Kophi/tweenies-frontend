@@ -1,8 +1,14 @@
+import { useEffect } from "react";
+
 function Contact() {
+  useEffect(() => {
+    document.title = "Contact and Directions | Twinnies Eatery, Tema";
+  }, []);
+  
   return (
     <>
       <section className="py-5">
-        <h2 className="fw-bold mb-4">Contact Us</h2>
+        <h1 className="fw-bold mb-4">Contact Us</h1>
 
         <p className="text-muted">
           We’d love to hear from you! Reach out to us using the details below. <br />

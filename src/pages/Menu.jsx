@@ -2,6 +2,10 @@ import { useEffect, useState } from "react";
 import api from "../services/api";
 
 function Menu() {
+  useEffect(() => {
+    document.title = "Menu | Twinnies Eatery - Local and Continental Dishes";
+  }, []);
+  
   const [groupedMenu, setGroupedMenu] = useState({});
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
@@ -31,7 +35,7 @@ function Menu() {
 
   return (
     <>
-      <h2 className="mb-4">Our Menu</h2>
+      <h1 className="mb-4">Our Menu</h1>
 
       {Object.keys(groupedMenu).map(category => (
         <div key={category} className="mb-5">

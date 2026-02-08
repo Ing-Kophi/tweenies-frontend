@@ -1,6 +1,11 @@
 import { Link } from "react-router-dom";
+import { useEffect } from "react";
 
 function Home() {
+  useEffect(() => {
+    document.title = "Twinnies Eatery | Home of Sumptuous Meals in Tema";
+  }, []);
+  
   return (
     <>
       {/* Hero Section */}
@@ -32,7 +37,7 @@ function Home() {
           <div className="col-md-6">
             <img
               src="https://res.cloudinary.com/dwgkkc0ee/image/upload/v1769561836/home_page_cpqqjm.jpg"
-              alt="Restaurant food"
+              alt="Hallmark dishes of Twinnies"
               className="img-fluid rounded shadow-sm"
               style={{ height:'490px', width: '100%', objectFit: "contain"}}
             />

@@ -1,11 +1,17 @@
+import { useEffect } from "react";
+
 function About() {
+  useEffect(() => {
+    document.title = "About Twinnies Eatery | Hall Mark of Twinnies Restaurant";
+  }, []);
+  
   return (
     <>
       {/* About Intro */}
       <section className="py-5">
-        <h2 className="fw-bold mb-4">
+        <h1 className="fw-bold mb-4">
           About Twinnies Eatery and Events Center
-        </h2>
+        </h1>
 
         <p className="text-muted lead">
           Twinnies Eatery is dedicated to serving delicious meals made with
